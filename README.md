@@ -1,3 +1,6 @@
+https://habr.com/post/418069/
+Решение цветных японских кроссвордов со скоростью света
+https://habr.com/post/418069/
 To build and run the program:
 
 ```
